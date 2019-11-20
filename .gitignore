@@ -1,0 +1,4 @@
+build
+docker_build
+upload.sh
+**/.DS_Store
